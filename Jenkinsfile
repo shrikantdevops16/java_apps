@@ -4,6 +4,7 @@ pipeline{
 
     agent any
     //agent { label 'Demo' }
+    //updated for shrikant only
 
     parameters{
 
